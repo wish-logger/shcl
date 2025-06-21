@@ -35,7 +35,7 @@ npm install @impulsedev/shcl
 ## 🎯 Basic Usage
 
 ```javascript
-const shcl = require('shcl');
+const shcl = require('@impulsedev/shcl');
 
 // Basic colors
 console.log(shcl.red('Hello World!'));
@@ -208,7 +208,7 @@ const rainbow = shcl.animate('🌈 Rainbow!', rainbowFrames, 200);
 ## 💻 TypeScript Support
 
 ```typescript
-import shcl from 'shcl';
+import shcl from '@impulsedev/shcl';
 
 const message: string = shcl.green('TypeScript ready!');
 console.log(message);
@@ -249,7 +249,7 @@ npm test
 
 ### Create a Colorful CLI App
 ```javascript
-const shcl = require('shcl');
+const shcl = require('@impulsedev/shcl');
 
 console.log(shcl.blue.bold('🚀 My CLI App'));
 console.log(shcl.green('✅ Success: Operation completed'));
@@ -261,7 +261,7 @@ console.log(shcl.gradient(['#FF6B6B', '#4ECDC4'], '🎨 Gradient magic!'));
 
 ### Progress Indicators
 ```javascript
-const shcl = require('shcl');
+const shcl = require('@impulsedev/shcl');
 
 console.log(shcl.blue('Loading...'));
 console.log(shcl.green('█████████░') + ' 90%');
