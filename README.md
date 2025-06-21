@@ -2,8 +2,8 @@
 
 **Advanced terminal string styling library with unique features!**
 
-[![npm version](https://badge.fury.io/js/shcl.svg)](https://www.npmjs.com/package/shcl)
-[![npm downloads](https://img.shields.io/npm/dm/shcl.svg)](https://www.npmjs.com/package/shcl)
+[![npm version](https://badge.fury.io/js/@impulsedev%2Fshcl.svg)](https://www.npmjs.com/package/@impulsedev/shcl)
+[![npm downloads](https://img.shields.io/npm/dm/@impulsedev/shcl.svg)](https://www.npmjs.com/package/@impulsedev/shcl)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 Why SHCL?
@@ -29,7 +29,7 @@ SHCL (Wish Color Line) is a powerful terminal styling library built with modern 
 ## 📦 Installation
 
 ```bash
-npm install shcl
+npm install @impulsedev/shcl
 ```
 
 ## 🎯 Basic Usage
@@ -302,5 +302,5 @@ Created by **ImpulseDev** - Advanced terminal styling for modern applications!
 **Install SHCL today and make your terminal output beautiful! 🎨**
 
 ```bash
-npm install shcl
+npm install @impulsedev/shcl
 ``` 

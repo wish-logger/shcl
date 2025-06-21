@@ -1,6 +1,6 @@
 {
-  "name": "shcl",
-  "version": "1.0.0",
+  "name": "@impulsedev/shcl",
+  "version": "1.0.1",
   "description": "Wish Color Line - Advanced terminal string styling library with gradients, animations and more...",
   "main": "src/index.js",
   "types": "src/index.d.ts",
